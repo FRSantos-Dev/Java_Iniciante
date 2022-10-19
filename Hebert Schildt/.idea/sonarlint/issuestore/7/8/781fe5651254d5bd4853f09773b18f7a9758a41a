@@ -1,0 +1,10 @@
+
+0
+java:S1220""Move this file to a named package.
+Y
+java:S1659"CDeclare "altura" and all following declarations on a separate line.(‹¤Ëê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öç›èÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»Ž¥´ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ï«ÒØ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°¢¥¡ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç–Ù©úÿÿÿÿ

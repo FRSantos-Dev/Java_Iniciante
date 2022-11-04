@@ -17,13 +17,13 @@ public class Crescente {
         while (x != y) {
             if (x < y) {
                 System.out.println("CRESCENTE");
-            }
-            else{
+            } else {
                 System.out.println("DECRESCENTE");
-        }
+            }
             System.out.println("Digite outro dois numeros: ");
             x = sc.nextInt();
             y = sc.nextInt();
-    }
+        }
         sc.close();
+    }
 }

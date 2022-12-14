@@ -7,7 +7,7 @@ public class BreakErr {
         }
 
         for (int j = 0; j < 100; j++) {
-            if( j == 10) break one; //ERRADO
+            if( j == 10) break; //ERRADO
             System.out.println(j + " ");
         }
     }
